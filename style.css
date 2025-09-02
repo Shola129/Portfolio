@@ -1,0 +1,1521 @@
+
+      @media (max-width:1920px){
+
+         #Journey{
+             margin-left: 350px;
+            color:  rgb(18, 153, 198);
+
+         }
+
+         #Expertise{
+               margin-left: 480px;
+            color:  rgb(18, 153, 198);
+
+         }
+
+         #Projt{
+               margin-left: 700px;
+            color:  rgb(18, 153, 198);
+         }
+
+         #Contact-me{
+               margin-left: 750px;
+            color:  rgb(18, 153, 198);
+
+         }
+
+        .sec{
+            margin-left: 70%;
+        }
+
+         #first-display{
+          font-size: 16px;
+          color: rgb(9, 113, 193);
+         padding: 0.5%;
+         text-align: center;
+         background-color: rgb(2, 36, 62);
+         width: 33%;
+         border-radius: 20px;
+         margin-left: 15%;
+         font-weight: bold;
+         margin-top: 80px;
+
+        }
+
+        #shola{
+            color: rgb(9, 113, 193); 
+        }
+
+
+      #About-sec{
+         margin-left: 26%;
+          padding: 00px;
+      }
+      #addes{
+        margin-left: 42%;
+      }
+      
+
+      #navi{
+        display: none;
+      }
+      #skill-sec{
+         margin-left:  20%;
+      }
+
+      #located{
+        margin-left: -90px;
+        width: 30px;
+        height: 30px;
+      }
+
+      #connect-section{
+        align-content: center;
+        text-align: center;
+        display: flex;
+        margin-left: 40%;
+        padding-top: 30px;
+        gap: 20px;
+      }
+
+      #lik-1{
+        color: rgb(219, 28, 18);
+      }
+
+      #fb{
+        height: 40px;
+      }
+
+        footer{
+          background-color: rgb(2, 70, 101);
+          width: 100%;
+          height: auto;
+          white-space: none;
+          margin: 0;
+          padding: 0;
+        }
+
+          #connect2{
+             font-size: 20px;
+             padding: 20px;
+             color: rgb(2, 54, 73);
+          }
+            #whatsapp{
+                color: green;
+                
+            }
+
+               #Email1{
+          font-size: 16px;
+          margin-top: -33px;
+          margin-left: 10px;
+        }
+                #mail{
+                    text-align: center;
+                    font-size: 13px;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+                }
+
+                  #mail1{
+                    align-content: center;
+                    text-align: center;
+                    font-size: 15px;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    display: block;
+
+                }
+
+                #job{
+                  font-size: 15px;
+                }
+
+                #hold-whats{
+                        margin-top: -35px;
+                        margin-left: 15px;
+
+
+                }
+
+                  #icon-email{
+                    height: 30px;
+                    margin-right: 90px;
+                    margin-top: 15px    
+                  }
+              
+                #description{
+                    padding: 10px;
+                }
+                #tools{
+                    margin-top: -13px;
+                    gap: 10px;
+                }
+           
+
+        #hold-skills{
+            display: flex;
+            gap: 70px;
+        }
+
+        #skill{
+            font-weight: bold;
+        }
+
+          #skills-1{
+            background-color:  rgb(1, 62, 82);
+            width:  250px;
+            height: 300px;
+            border-radius: 30px;
+             color:rgb(9, 101, 171);
+             padding: 20px;
+        }
+
+        #skills-1:hover{
+               box-shadow: 1px 2px 5px 3px rgba(113, 113, 113, 0.5);
+        }
+
+        .value{
+            font-weight: bold;
+        }
+
+        .value{
+            float: right;
+            margin-top: -20px;
+        }
+
+        input{
+            width: 95%;
+            
+            color:  rgb(1, 62, 82);
+        }
+        #ex2,#ex3{
+             margin-top: -14px;
+        }
+        #ex,#ex2,#ex3{
+            display: block;
+            gap: -10px;
+        }
+
+        header{
+            background-color: rgb(1, 62, 82);
+            height: 70px;
+        
+            position: -webkit-sticky;
+            position: fixed;
+            width: 110%;
+            z-index: 1;
+              margin-left: -2%;
+            margin-top: -10px;
+            
+        }
+        svg{
+            margin-top: -50px;
+        }
+
+        #About-sect{
+         
+            margin-left: 20%;
+            color:  rgb(18, 153, 198);
+        }
+        body{
+          
+             font-family: 'Poppins', sans-serif;
+              background: linear-gradient(135deg,  rgb(2, 21, 42),  rgb(2, 34, 57), rgb(1, 62, 82));
+             color: var(--light);
+             color: white;
+              line-height: 1.6;
+              overflow-x: hidden;
+              min-height: 100vh;
+              position: relative;
+              font-size: small;
+              max-width: 100%;
+             
+        }
+        ul{
+              position: -webkit-sticky;
+            position: fixed;
+            display: flex;
+            list-style-type: none;
+             float: left;
+            gap: 30px;
+            margin-left: 68%;
+            font-size: large;
+            margin-top: -35px;
+        }
+        #intro{
+            padding-top: 2%;
+            padding-left: 15%;
+            font-size: small;
+        }
+        #link-contact{
+            background-color: rgb(18, 153, 198);
+              color:  rgb(2, 21, 42);
+              text-decoration: none;
+        }
+
+            
+            #inp2::placeholder{
+              padding: 10px;
+              font-size: 16px;
+              color: white;
+            }
+
+            #inp1::placeholder{
+              padding: 10px;
+              font-size: 16px;
+              color: white;
+            }
+
+            #inp3::placeholder{
+              padding: 10px;
+              font-size: 16px;
+              color: white;
+            }
+        
+
+        #but-hire{
+            background-color: rgb(18, 153, 198);
+            padding: 10px;
+            width: 100px;
+            border-radius: 5px;
+            border-style: none;
+            font-size: large;
+            font-weight: bold;
+        }
+        #link-contact:hover{
+          
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+              font-size: large;
+            font-weight: bold;
+        }
+
+        #dis-work{
+            border-color: rgb(18, 153, 198);
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+            margin-left: 10px;
+            padding: 10px;
+            width: 170px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        #link-project{
+              border-color: rgb(18, 153, 198);
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+            margin-left: 10px;
+            padding: 10px;
+            width: 170px;
+            border-radius: 5px;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+           #icon-email1{
+            height: 30px;
+            margin-right: 170px;
+             margin-top: 5%     
+        }
+
+           #icon-email2{
+            height: 30px;
+            margin-right: 200px;
+             margin-top: 1%     
+        }
+
+
+        #link-project:hover{
+            
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+          
+            border-radius: 5px;   
+          
+            font-weight: bold;   
+        }
+
+        #but-hire:hover{
+             border-color: rgb(18, 153, 198);
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+            padding: 10px;
+            border-radius: 5px;   
+            border-style: solid;
+              font-size: large;
+            font-weight: bold;
+        }
+
+
+        #dis-work:hover{
+              background-color: rgb(18, 153, 198);
+            padding: 10px;
+              border-color: rgb(18, 153, 198);
+            border-radius: 5px;
+            color: rgb(2, 21, 42);
+            font-weight: bold;
+        }
+
+        #icon-whats{
+            height: 30px;
+            margin-top: 10px;
+            margin-right: 220px;
+        }
+
+        #what-word{
+          margin-top: -20px;
+        }
+
+            #icon-linked{
+            height: 30px;
+            margin-top: -5px;
+            margin-left: -100px;
+        }
+
+        #apps{
+          color: white;
+           text-decoration: none;
+            font-size: 16px;
+             margin-top: -10px;
+              margin-top: 20px;
+        }
+
+   
+        #Email{
+          font-size: 18px;
+          margin-top: -35px;
+        }
+
+        #dis-mail{
+            margin-top: -45px;
+            font-size: 17px;
+        }
+
+        #loca{
+           height: 30px;
+            margin-left: 110px;
+            margin-top: 27px;
+
+        }
+
+        #phone{
+          color: rgb(13, 118, 198);
+        }
+
+        #dis-loca{
+          font-size: 16px;
+          margin-top: 20px;
+          margin-left: -5px;
+
+        }
+
+      img:hover{
+            transform: none;
+        }
+
+     #image{
+        width: 250px;
+        height: 150px;
+        margin-top: -340px;
+       margin-right: 100px;
+        float: right;
+       
+     }
+
+     .class:hover{
+       transform: skew(0deg, 0deg);
+       background-color: blueviolet
+       }
+
+        #About{
+            width: 400px;
+            height: 120px;
+            border-radius: 20px;
+            background-color:rgb(9, 46, 76);
+            text-align: center;
+            font-size: large;
+            padding-top: 40px;
+            font-weight: bold;
+            list-style-type:none ;
+          
+        }
+        
+        #About:hover{
+            background-color: 10px 10px 20px #babecc, -10px -10px 20px #ffff;
+             box-shadow: 1px 2px 5px 3px rgba(113, 113, 113, 0.5);
+             font-size: 21px;
+             
+        }
+
+        #hold-about{
+            display: flex;
+            gap: 30px;
+        }
+
+        #edge{
+            text-align: center;
+            margin: 0px;
+            flex-wrap: wrap;
+        }
+        
+        #dev{
+            order: 1;
+            font-size: xx-large; 
+            margin-left: 270px;
+             margin-top: 8px; 
+             font-weight: bold;
+              color:rgb(9, 101, 171);
+        }
+
+        #edge{
+            animation: slider  3.2s ease-in-out infinite;
+            gap: 80px;
+           
+        }
+
+
+        #skills-1:nth-child(1){animation-delay: 0s;}
+        #skills-1:nth-child(2){animation-delay: .1s;}
+      
+
+        @keyframes slider{
+            0%, 100%{transform: translateY(0)scale(1);color: rgb(15, 100, 161);}
+            50%{transform: translateY(-15px)scale(1.2);color: rgb(1, 62, 82);}
+        }
+
+          #head{
+            text-align: center;
+             margin-right: 300px;
+             color:   rgb(18, 153, 198);
+         }
+
+         #head1{
+            margin-left: 700px;
+            color:   rgb(18, 153, 198);
+         }
+
+         #skill-sect{
+                text-align: center;
+                margin-right: 250px;
+            color:   rgb(18, 153, 198);
+         }
+
+         #skill-sec, #linked{
+            text-decoration: none;
+            color: white;
+         }
+
+
+
+         #Project-cont{
+             margin-left: 700px;
+            color:   rgb(18, 153, 198);
+         }
+         #Project-section{
+            z-index: -1;
+            display: flex;
+             margin-left: 200px;
+             gap: 50px;
+         }
+        #Project{
+             background-color:rgb(1, 62, 82);
+             width: 270px;
+             height: 600px;
+             border-radius: 20px;
+             margin-left: 00px;
+        }
+        #Restaurant{
+            background-image: url("129717339-close-up-woman-with-laptop-ordering-take-away-food-online-delivery-concept-all-screen-graphics-are - Copy.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            background-size: auto;
+            border-radius: 30px;
+            background-size: cover;
+        
+            text-align: center;
+              font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+              color:  white;
+             margin-left: 5px;   
+           
+        z-index: -1;
+            }
+        #To-do{
+            background-image: url("shutterstock_2051853884-scaled.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            border-radius: 20px;
+        z-index: -1;
+            background-size: cover;
+            text-align: center;
+            font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+             color:  white;
+             margin-left: 5px;      
+            }
+
+           
+
+        #L-S{
+            background-image: url("original-02be53f1a402fdb836bfff31bd547e63.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            background-position: center;
+            background-size: cover;
+            border-radius: 20px;
+            z-index: -1;
+            text-align: center;
+              font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+         color:  white;
+             margin-left: 5px;
+           
+        }
+
+           #icon-email2{
+            height: 30px;
+            margin-right: 160px;
+             margin-top: 1%     
+        }
+
+        #Health{
+            background-image: url("AI-for-Healthcare---sized.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            border-radius: 20px;
+            background-position: center;
+            background-size: cover;
+            z-index: -1;
+            text-align: center;
+              font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+            color:  white;
+             margin-left: 5px;
+             
+        }
+         #contact{
+              margin-left: 700px;
+            color:   rgb(18, 153, 198);
+        }
+          #tools-hr{
+             width: 35px;
+                float: left;
+                background-color: rgb(2, 41, 56);
+                margin-top: -3px;
+                border: none;
+                height: 3px;
+          }
+            hr{
+                width: 85px;
+                float: left;
+                background-color: rgb(2, 41, 56);
+                margin-top: -3px;
+                border: none;
+                height: 3px;
+            }
+            #overview{
+                font-size: 15px;
+                color: white;
+                font-weight: bold;
+                
+            }
+
+          #SMS{
+             background-color:  rgb(1, 62, 82);
+             width: 800px;
+             height: 500px;
+             border-radius: 30px;
+             margin-left: 400px;
+           
+          }
+
+          #mail{
+             width: 380px;
+             height: 70px;
+             background-color: transparent;
+             border-radius: 30px;
+              backdrop-filter:blur(10px) ;
+              background-color: rgba(49, 88, 109, 0.443);
+            }
+
+
+                 #mail1{
+             width: 380px;
+             height: 70px;
+             background-color: transparent;
+             border-radius: 30px;
+              backdrop-filter:blur(10px) ;
+              background-color: rgba(49, 88, 109, 0.443);
+              display: block;
+            }
+
+            #linkedin{
+                      font-size: 18px;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    text-align: center;
+                    align-content: center;
+                    text-decoration: none;
+                      width: 380px;
+                    height: 70px;
+                  background-color: transparent;
+                  border-radius: 30px;
+                  backdrop-filter:blur(10px) ;
+                  background-color: rgba(49, 88, 109, 0.443);
+                  color:white;
+                }
+              
+                #link-ed{
+                  margin-top: -40px;
+                  background-color:  rgba(49, 88, 109, 0.443);
+                  color: white;
+                  text-decoration: none;
+                }
+
+            #hold-linked{
+                margin-top: -35px;
+                margin-right: -10px;
+            }
+
+          #direct-contact{
+              width: 380px;
+             height: 470px;
+             border-radius: 30px;
+               background-color: rgba(49, 88, 109, 0.443);
+              
+          }
+        #hold-sms{
+            margin-left: 10px;
+              display: flex;
+             gap: 20px;
+          }
+
+          #location{
+
+             width: 380px;
+             height: 70px;
+             background-color: transparent;
+             border-radius: 30px;
+              backdrop-filter:blur(10px) ;
+              background-color: rgba(49, 88, 109, 0.443);
+              display: flex;
+              gap: 10px;
+            }
+        
+
+          #get-in{
+            color:  rgb(2, 21, 42);
+               font-size: 25px;
+               margin-left: 10px;
+          }
+
+       
+          #inp1,#inp2,#inp3{
+            width: 330px;
+            height: 50px;
+            background-color: transparent;
+            margin-left: 20px;
+            border-radius: 20px;
+            border-color: rgb(146, 146, 146);
+            border-style: solid;
+            outline: none;
+            color: white;
+          }
+
+          #inp3{
+            width: 330px;
+            height: 150px;
+          }
+
+          #Send{
+            width: 330px;
+            height: 50px;
+            border-radius: 10px;
+              margin-left: 20px;
+              background-color: rgb(2, 21, 42);
+              color: white;
+              border-style: none;
+            }
+
+          #con-hr{
+            width: 20px;
+            margin-top: 12px;
+            margin-left: 4px;
+          }
+          #connect{
+            font-size: 20px;
+            margin-left: 10px;
+          }
+
+          
+         #hr2{
+          display: none;
+         }
+
+           #linked:hover{
+            transition: 0.9s ease-in-out ;
+            color:  rgb(1, 27, 37);
+            display: block;
+            font-size: 22px;
+            font-weight: bold;
+             
+        }
+
+       
+      }
+
+
+
+       @media (max-width: 600px){
+          #dev{
+           margin-left: 25%;
+          }
+            #list{
+             display: none;
+            }
+
+            #hold-sms{
+                display: flex;
+                flex-wrap:wrap;
+                
+            }
+      
+            #About-sec{
+              padding: 0;
+              margin-left: 5%;
+              
+            }
+
+            #About-sect{
+              font-size: 25px;
+              margin-left: -50px;
+            }
+            
+             
+      #skill-sec{
+         margin-left:  5%;
+         margin-top: -100px;
+      }
+
+      #div{
+        display: flex;
+        flex-wrap: nowrap;
+      }
+     
+
+      #located{
+      
+        width: 30px;
+        height: 30px;
+      }
+
+      #connect-section{
+       
+        display: flex;
+        flex-wrap: wrap;
+        margin-left: 30%;
+        padding-top: 30px;
+
+        gap: 20px;
+      }
+
+      #lik-1{
+        color: rgb(219, 28, 18);
+      }
+
+      #fb{
+     
+       height: 30px;
+      }
+
+        footer{
+          background-color: rgb(1, 36, 53);
+          width: 105%;
+          height: 150px;
+          margin-left: -5%;
+          white-space: none;
+          margin-top: -100px;
+          padding: 20px;
+        }
+
+        body{
+          overflow-x: hidden;
+        }
+
+          #connect2{
+             font-size: 20px;
+             padding: 30px;
+             color: rgb(2, 54, 73);
+          }
+            #whatsapp{
+                color: green;
+                
+            }
+
+             #image{
+               padding-bottom: 50px;
+                margin-top: -50px;
+               align-content: center;
+             }
+                #mail{
+                    text-align: center;
+                    font-size: 13px;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+                }
+
+                  #mail1{
+                    align-content: center;
+                    text-align: center;
+                    font-size: 15px;
+                    font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    display: block;
+
+                }
+
+                #job{
+                  font-size: 13px;
+                }
+
+                #hold-whats{
+                        margin-top: -35px;
+                        margin-left: 15px;
+
+
+                }
+
+                #description{
+                    padding: 10px;
+                }
+                #tools{
+                    margin-top: -13px;
+                    gap: 10px;
+                }
+           
+
+        #hold-skills{
+            display: block;
+            margin-left: 5%;
+            margin-top: -80px;
+        }
+
+        #skill{
+            font-weight: bold;
+        }
+
+          #skills-1{
+            background-color:  rgb(1, 62, 82);
+            width:  250px;
+            height: 300px;
+            border-radius: 30px;
+             color:rgb(9, 101, 171);
+             padding: 20px;
+        }
+
+        .value{
+            font-weight: bold;
+        }
+
+        .value{
+            float: right;
+            margin-top: -20px;
+        }
+
+        input{
+            width: 95%;
+            
+            color:  rgb(1, 62, 82);
+        }
+        #ex2,#ex3{
+             margin-top: -14px;
+        }
+        #ex,#ex2,#ex3{
+            display: block;
+            gap: -10px;
+        }
+
+        header{
+            background-color: rgb(1, 62, 82);
+            height: 70px;
+            max-width: 100%;
+            margin: 0;
+            padding: 0;
+            margin-left: -2%;
+            margin-top: -10px;
+        }
+        svg{
+            margin-top: -50px;
+        }
+
+        #Journey, #Expertise, #Projt, #Contact-me{
+         
+            margin-left: 20%;
+            color:  rgb(18, 153, 198);
+        }
+
+        #projt{
+            margin-top: -10px;
+        }
+
+        body{
+          
+             font-family: 'Poppins', sans-serif;
+              background: linear-gradient(135deg,  rgb(2, 21, 42),  rgb(2, 34, 57), rgb(1, 62, 82));
+             color: var(--light);
+             color: white;
+              line-height: 1.6;
+              overflow-x: hidden;
+              min-height: 100vh;
+              position: relative;
+              font-size: small;
+             
+        }
+        ul{
+              position: -webkit-sticky;
+            position: fixed;
+            display: flex;
+            list-style-type: none;
+             float: left;
+            gap: 30px;
+            margin-left: 68%;
+            font-size: large;
+            margin-top: -35px;
+        }
+        #intro{
+            padding-top: 4%;
+            padding-left: 15%;
+            font-size: small;
+        }
+        #link-contact{
+            background-color: rgb(18, 153, 198);
+              color:  rgb(2, 21, 42);
+              text-decoration: none;
+        }
+
+        #but-hire{
+            background-color: rgb(18, 153, 198);
+            padding: 10px;
+            width: 100px;
+            border-radius: 5px;
+            border-style: none;
+            font-size: large;
+            font-weight: bold;
+        }
+        #link-contact:hover{
+           
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+              font-size: large;
+            font-weight: bold;
+        }
+
+        #dis-work{
+            border-color: rgb(18, 153, 198);
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+            margin-left: 10px;
+            padding: 10px;
+            width: 170px;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        #link-project{
+              border-color: rgb(18, 153, 198);
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+            margin-left: 10px;
+            padding: 10px;
+            width: 170px;
+            border-radius: 5px;
+            font-weight: bold;
+            text-decoration: none;
+        }
+
+         #first-display{
+          font-size: 12px;
+          color: rgb(9, 113, 193);
+         padding: 0.5%;
+         text-align: center;
+         background-color: rgb(4, 74, 128);
+         width: 80%;
+         border-radius: 20px;
+         margin-left: 10%;
+         font-weight: bold;
+         margin-top: 80px;
+
+        }
+
+        #link-project:hover{
+            
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+          
+            border-radius: 5px;   
+          
+            font-weight: bold;   
+        }
+
+        #but-hire:hover{
+             border-color: rgb(18, 153, 198);
+            background-color:  rgb(2, 21, 42);
+            color:  rgb(18, 153, 198);
+            padding: 10px;
+            border-radius: 5px;   
+            border-style: solid;
+              font-size: large;
+            font-weight: bold;
+        }
+
+
+        #dis-work:hover{
+              background-color: rgb(18, 153, 198);
+            padding: 10px;
+              border-color: rgb(18, 153, 198);
+            border-radius: 5px;
+            color: rgb(2, 21, 42);
+            font-weight: bold;
+        }
+
+           #addes{
+        margin-left: 35%;
+      }
+      
+      
+
+        #icon-whats{
+            height: 20px;
+            margin-top: -20px;
+            margin-right: 170px;
+        }
+
+            #icon-linked{
+            height: 20px;
+            margin-top: -5px;
+            margin-left: -100px;
+        }
+
+        #icon-email{
+            height: 30px;
+            margin-right: 90px;
+             margin-top: 15px
+             
+        }
+          #icon-email1{
+            height: 30px;
+            margin-right: 160px;
+             margin-top: 5%
+             
+        }
+
+        #Email{
+          font-size: 16px;
+          margin-top: -33px;
+          margin-left: -20px;
+        }
+
+        #Email1{
+          font-size: 16px;
+          margin-top: -33px;
+          margin-left: 10px;
+        }
+
+        #dis-mail{
+            margin-top: -45px;
+            font-size: 17px;
+        }
+
+        #loca{
+           height: 30px;
+            margin-left: 70px;
+            margin-top: 25px;
+
+        }
+
+        #phone{
+          color: rgb(13, 118, 198);
+        }
+
+        #dis-loca{
+          font-size: 16px;
+          margin-top: 17px;
+          margin-left: -5px;
+
+        }
+
+      /*  img{
+            width: 450px;
+            height: 550px;
+            border-radius: 500px;
+            padding-right: 10px;
+        }
+*/
+    
+        #image{
+          float: right;
+          width: 50%;
+          height: 50%;
+          margin-top: 20%;
+        }
+
+
+
+        #About{
+            width: 400px;
+            height: 120px;
+            border-radius: 20px;
+            background-color:rgb(9, 46, 76);
+            text-align: center;
+            font-size: large;
+            padding-top: 40px;
+            font-weight: bold;
+            list-style-type:none ;
+          
+        }
+        
+        #About:hover{
+            background-color: 10px 10px 20px #babecc, -10px -10px 20px #ffff;
+             box-shadow: 1px 2px 5px 3px rgba(113, 113, 113, 0.5);
+             font-size: 21px;
+             
+        }
+
+        #hold-about{
+            display: flex;
+            gap: 30px;
+        }
+
+        #edge{
+            text-align: center;
+            margin: 0px;
+            flex-wrap: wrap;
+        }
+   
+
+        #edge{
+            animation: slider  3.2s ease-in-out infinite;
+            gap: 80px;
+           
+        }
+
+
+        #skills-1:nth-child(1){animation-delay: 0s;}
+        #skills-1:nth-child(2){animation-delay: .1s;}
+      
+
+        @keyframes slider{
+            0%, 100%{transform: translateY(0)scale(1);color: rgb(15, 100, 161);}
+            50%{transform: translateY(-15px)scale(1.2);color: rgb(1, 62, 82);}
+        }
+
+          #head{
+            text-align: center;
+             margin-right: 300px;
+             color:   rgb(18, 153, 198);
+         }
+
+         #head1{
+            margin-left: 700px;
+            color:   rgb(18, 153, 198);
+         }
+
+         #skill-sect{
+              margin-left: 20%;
+            color:   rgb(18, 153, 198);
+         }
+
+         #skill-sec, #linked{
+            text-decoration: none;
+            color: white;
+         }
+
+
+
+         #Project-cont{
+            color:   rgb(18, 153, 198);
+            float:right;
+            margin-right: 50%;
+            
+         }
+
+         #Project-section{
+             margin-left: 10%;
+            display: flex;
+            flex-wrap: wrap;
+            margin-top: -0px;
+        }
+        #Project{
+             background-color:rgb(1, 62, 82);
+             width: 270px;
+             height: 600px;
+             border-radius: 20px;
+             margin-left: 00px;
+        }
+        #Restaurant{
+            background-image: url("129717339-close-up-woman-with-laptop-ordering-take-away-food-online-delivery-concept-all-screen-graphics-are - Copy.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            background-size: auto;
+            border-radius: 30px;
+            background-size: cover;
+        
+            text-align: center;
+              font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+              color:  white;
+             margin-left: 5px;   
+           
+        z-index: -1;
+            }
+        #To-do{
+            background-image: url("shutterstock_2051853884-scaled.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            border-radius: 20px;
+        z-index: -1;
+            background-size: cover;
+            text-align: center;
+            font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+             color:  white;
+             margin-left: 5px;      
+            
+            
+            }
+        #L-S{
+            background-image: url("original-02be53f1a402fdb836bfff31bd547e63.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            background-position: center;
+            background-size: cover;
+            border-radius: 20px;
+            z-index: -1;
+            text-align: center;
+              font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+         color:  white;
+             margin-left: 5px;
+           
+        }
+          #apps{
+          color: white;
+           text-decoration: none;
+            font-size: 13px;
+            
+              margin-top: 0px;
+        }
+
+        #Health{
+            background-image: url("AI-for-Healthcare---sized.jpg");
+            width: 250px;
+            padding-left: 10px;
+            margin-top: 9px;
+            height: 200px;
+            border-radius: 20px;
+            background-position: center;
+            background-size: cover;
+            z-index: -1;
+            text-align: center;
+              font-size: 22px;
+            padding-top: 20px;
+            font-weight: bold;
+            color:  white;
+             margin-left: 5px;
+             
+        }
+    
+          #tools-hr{
+             width: 35px;
+                float: left;
+                background-color: rgb(2, 41, 56);
+                margin-top: -3px;
+                border: none;
+                height: 3px;
+          }
+            hr{
+                width: 55px;
+                float: left;
+                background-color: rgb(2, 41, 56);
+                margin-top: -3px;
+                border: none;
+                height: 3px;
+            }
+            #overview{
+                font-size: 15px;
+                color: white;
+                font-weight: bold;
+                
+            }
+
+          #SMS{
+             background-color:  rgb(1, 62, 82);
+             width: 100%;
+             height: 900px;
+             border-radius: 30px;
+             margin-left: 0%;
+             
+          }
+
+          #mail{
+             width: 100%;
+             height: 60px;
+             background-color: transparent;
+             border-radius: 30px;
+            
+              background-color: rgba(49, 88, 109, 0.443);
+            }
+
+
+         #mail1{
+             width: 100%;
+             height: 60px;
+             background-color: transparent;
+             border-radius: 30px;
+              backdrop-filter:blur(10px) ;
+              background-color: rgba(49, 88, 109, 0.443);
+              display: block;
+              z-index: -1;
+            }
+
+            #linkedin{
+                      font-size: 18px;
+                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                    text-align: center;
+                    align-content: center;
+                    text-decoration: none;
+                      width: 100%;
+                    height: 60px;
+                  background-color: transparent;
+                  border-radius: 30px;
+                  backdrop-filter:blur(10px) ;
+                  background-color: rgba(49, 88, 109, 0.443);
+                  color:white;
+                  z-index: -1;
+                }
+              
+                #link-ed{
+                  margin-top: -40px;
+                  background-color:  rgba(49, 88, 109, 0.443);
+                  color: white;
+                  text-decoration: none;
+                  font-size: 14px;
+                  font-weight: bold;
+                }
+
+            #hold-linked{
+                margin-top: -35px;
+                margin-right: 10px;
+            }
+
+          #direct-contact{
+              width: 95%;
+             height: 470px;
+             border-radius: 30px;
+               background-color: rgba(49, 88, 109, 0.443);
+              
+          }
+      
+
+          #location{
+             width: 100%;
+             height: 60px;
+             background-color: transparent;
+             border-radius: 30px;
+              backdrop-filter:blur(10px) ;
+              background-color: rgba(49, 88, 109, 0.443);
+              display: flex;
+              gap: 10px;
+              z-index: -1;
+            }
+            
+            #inp2::placeholder{
+              padding: 10px;
+              font-size: 16px;
+              color: white;
+            }
+
+            #inp1::placeholder{
+              padding: 10px;
+              font-size: 16px;
+              color: white;
+            }
+
+            #inp3::placeholder{
+              padding: 10px;
+              font-size: 16px;
+              color: white;
+            }
+        
+
+          #get-in{
+            color:  rgb(2, 21, 42);
+               font-size: 25px;
+               margin-left: 10px;
+          }
+
+          #inp1,#inp2,#inp3{
+            width: 90%;
+            height: 50px;
+            background-color: transparent;
+            margin-left: 10px;
+            border-radius: 20px;
+            border-color: rgb(146, 146, 146);
+            border-style: solid;
+            outline: none;
+            color: white;
+          }
+
+          #inp3{
+            width: 70%;
+            height: 150px;
+          }
+
+          #Send{
+            width: 90%;
+            height: 50px;
+            border-radius: 10px;
+              margin-left: 20px;
+              background-color: rgb(2, 21, 42);
+              color: white;
+              border-style: none;
+            }
+
+      
+          #connect{
+            font-size: 20px;
+            margin-left: 10px;
+          }
+          
+            #linked:hover{
+            color:  rgb(1, 27, 37);
+            font-size: 22px;
+            font-weight: bold;
+        }
+
+        #navi{
+           transform: rotateY(180);
+        }
+
+          }
+      
