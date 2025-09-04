@@ -60,7 +60,7 @@
         display: none;
       }
       #skill-sec{
-         margin-left:  20%;
+         margin-left:  15%;
       }
 
       #located{
@@ -154,7 +154,8 @@
 
         #hold-skills{
             display: flex;
-            gap: 70px;
+            gap: 40px;
+            margin-left: 5%;
         }
 
         #skill{
@@ -253,6 +254,12 @@
               text-decoration: none;
         }
 
+         #link-contact2{
+            background-color:  rgb(2, 21, 42);
+              color:  rgb(18, 153, 198);
+              text-decoration: none;
+        }
+
             
             #inp2::placeholder{
               padding: 10px;
@@ -279,7 +286,7 @@
             width: 100px;
             border-radius: 5px;
             border-style: none;
-            font-size: large;
+            font-size: 15px;
             font-weight: bold;
         }
         #link-contact:hover{
@@ -296,13 +303,13 @@
             color:  rgb(18, 153, 198);
             margin-left: 10px;
             padding: 10px;
-            width: 170px;
+            width: 190px;
             border-radius: 5px;
             font-weight: bold;
         }
 
         #link-project{
-              border-color: rgb(18, 153, 198);
+           
             background-color:  rgb(2, 21, 42);
             color:  rgb(18, 153, 198);
             margin-left: 10px;
@@ -327,12 +334,9 @@
 
 
         #link-project:hover{
-            
             background-color:  rgb(2, 21, 42);
             color:  rgb(18, 153, 198);
-          
-            border-radius: 5px;   
-          
+            border-radius: 5px;    
             font-weight: bold;   
         }
 
@@ -343,7 +347,7 @@
             padding: 10px;
             border-radius: 5px;   
             border-style: solid;
-              font-size: large;
+              font-size: 15px;
             font-weight: bold;
         }
 
@@ -515,7 +519,7 @@
          #Project-section{
             z-index: -1;
             display: flex;
-             margin-left: 200px;
+             margin-left: 15%;
              gap: 50px;
          }
         #Project{
@@ -778,7 +782,7 @@
 
 
 
-       @media (max-width: 600px){
+       @media (max-width: 1500px){
           #dev{
            margin-left: 25%;
           }
@@ -840,6 +844,11 @@
        height: 30px;
       }
 
+      #image-sec{
+        margin-left: 15%;
+        width: 50%;
+      }
+
         footer{
           background-color: rgb(1, 36, 53);
           width: 105%;
@@ -852,6 +861,7 @@
 
         body{
           overflow-x: hidden;
+          
         }
 
           #connect2{
@@ -906,7 +916,7 @@
            
 
         #hold-skills{
-            display: block;
+          flex-wrap: wrap;
             margin-left: 5%;
             margin-top: -80px;
         }
@@ -965,12 +975,20 @@
             color:  rgb(18, 153, 198);
         }
 
+        
+        #Journey{
+         
+            margin-left: 20%;
+        
+            color:  rgb(18, 153, 198);
+        }
+
         #projt{
             margin-top: -10px;
         }
 
         body{
-          
+            overflow-x: hidden;
              font-family: 'Poppins', sans-serif;
               background: linear-gradient(135deg,  rgb(2, 21, 42),  rgb(2, 34, 57), rgb(1, 62, 82));
              color: var(--light);
@@ -1014,7 +1032,6 @@
             font-weight: bold;
         }
         #link-contact:hover{
-           
             background-color:  rgb(2, 21, 42);
             color:  rgb(18, 153, 198);
               font-size: large;
