@@ -219,7 +219,7 @@
             color:  rgb(18, 153, 198);
         }
         body{
-          
+      
              font-family: 'Poppins', sans-serif;
               background: linear-gradient(135deg,  rgb(2, 21, 42),  rgb(2, 34, 57), rgb(1, 62, 82));
              color: var(--light);
@@ -829,9 +829,8 @@
        
         display: flex;
         flex-wrap: wrap;
-        margin-left: 30%;
+        margin-left: 45%;
         padding-top: 30px;
-
         gap: 20px;
       }
 
@@ -859,10 +858,6 @@
           padding: 20px;
         }
 
-        body{
-          overflow-x: hidden;
-          
-        }
 
           #connect2{
              font-size: 20px;
@@ -919,6 +914,7 @@
           flex-wrap: wrap;
             margin-left: 5%;
             margin-top: -80px;
+               gap: 100%;
         }
 
         #skill{
@@ -988,7 +984,6 @@
         }
 
         body{
-            overflow-x: hidden;
              font-family: 'Poppins', sans-serif;
               background: linear-gradient(135deg,  rgb(2, 21, 42),  rgb(2, 34, 57), rgb(1, 62, 82));
              color: var(--light);
@@ -998,6 +993,7 @@
               min-height: 100vh;
               position: relative;
               font-size: small;
+              width: 100%;
              
         }
         ul{
@@ -1067,7 +1063,7 @@
          padding: 0.5%;
          text-align: center;
          background-color: rgb(4, 74, 128);
-         width: 80%;
+         width: 90%;
          border-radius: 20px;
          margin-left: 10%;
          font-weight: bold;
@@ -1106,11 +1102,11 @@
             font-weight: bold;
         }
 
-           #addes{
-        margin-left: 35%;
-      }
-      
-      
+                #addes{
+              margin-left: 45%;
+            }
+            
+            
 
         #icon-whats{
             height: 20px;
@@ -1536,3 +1532,23 @@
 
           }
       
+
+          @media (max-width: 600px){
+                #connect-section{
+                      display: flex;
+                      flex-wrap: wrap;
+                      margin-left: 30%;
+                      padding-top: 30px;
+                      gap: 20px;
+                    }
+
+                         #addes{
+        margin-left: 35%;
+      }
+
+                body{
+                   overflow-x: hidden;
+                }
+      
+
+          }
