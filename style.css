@@ -14,7 +14,7 @@
          }
 
          #Projt{
-               margin-left: 700px;
+               margin-left: 760px;
             color:  rgb(18, 153, 198);
          }
 
@@ -519,7 +519,7 @@
          #Project-section{
             z-index: -1;
             display: flex;
-             margin-left: 15%;
+             margin-left: 14%;
              gap: 50px;
          }
         #Project{
@@ -639,10 +639,10 @@
 
           #SMS{
              background-color:  rgb(1, 62, 82);
-             width: 800px;
-             height: 500px;
+             width: 820px;
+             height: 520px;
              border-radius: 30px;
-             margin-left: 400px;
+             margin-left: 25%;
            
           }
 
@@ -703,6 +703,7 @@
         #hold-sms{
             margin-left: 10px;
               display: flex;
+              flex-wrap: wrap;
              gap: 20px;
           }
 
@@ -791,7 +792,7 @@
             }
 
             #hold-sms{
-                display: flex;
+
                 flex-wrap:wrap;
                 
             }
@@ -914,7 +915,7 @@
           flex-wrap: wrap;
             margin-left: 5%;
             margin-top: -80px;
-               gap: 100%;
+               gap: 50px;
         }
 
         #skill{
@@ -1382,9 +1383,9 @@
             }
 
           #SMS{
-             background-color:  rgb(1, 62, 82);
-             width: 100%;
-             height: 900px;
+           
+             width: 95%;
+             height: 950px;
              border-radius: 30px;
              margin-left: 0%;
              
