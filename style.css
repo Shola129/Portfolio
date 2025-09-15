@@ -52,7 +52,7 @@
           padding: 00px;
       }
       #addes{
-        margin-left: 42%;
+        margin-left: 47%;
       }
       
 
@@ -73,7 +73,7 @@
         align-content: center;
         text-align: center;
         display: flex;
-        margin-left: 40%;
+        margin-left: 45%;
         padding-top: 30px;
         gap: 20px;
       }
@@ -105,10 +105,16 @@
                 
             }
 
-               #Email1{
-          font-size: 16px;
-          margin-top: -33px;
-          margin-left: 10px;
+               #Email2{
+                font-size: 16px;
+                margin-top: -33px;
+                margin-left: 60px;
+        }
+
+            #Email1{
+                font-size: 16px;
+                margin-top: -33px;
+                margin-left: 20px;
         }
                 #mail{
                     text-align: center;
@@ -521,6 +527,7 @@
             display: flex;
              margin-left: 14%;
              gap: 50px;
+
          }
         #Project{
              background-color:rgb(1, 62, 82);
@@ -528,6 +535,8 @@
              height: 600px;
              border-radius: 20px;
              margin-left: 00px;
+               color: rgb(185, 184, 184);
+               font-family: sans-serif;
         }
         #Restaurant{
             background-image: url("129717339-close-up-woman-with-laptop-ordering-take-away-food-online-delivery-concept-all-screen-graphics-are - Copy.jpg");
@@ -543,7 +552,7 @@
               font-size: 22px;
             padding-top: 20px;
             font-weight: bold;
-              color:  white;
+             color:  black;
              margin-left: 5px;   
            
         z-index: -1;
@@ -561,7 +570,7 @@
             font-size: 22px;
             padding-top: 20px;
             font-weight: bold;
-             color:  white;
+            color: black;
              margin-left: 5px;      
             }
 
@@ -581,7 +590,7 @@
               font-size: 22px;
             padding-top: 20px;
             font-weight: bold;
-         color:  white;
+        color: black;
              margin-left: 5px;
            
         }
@@ -606,7 +615,7 @@
               font-size: 22px;
             padding-top: 20px;
             font-weight: bold;
-            color:  white;
+           color: black;
              margin-left: 5px;
              
         }
@@ -632,8 +641,9 @@
             }
             #overview{
                 font-size: 15px;
-                color: white;
+                color: rgb(185, 184, 184);
                 font-weight: bold;
+                font-family: sans-serif;
                 
             }
 
@@ -956,7 +966,7 @@
         header{
             background-color: rgb(1, 62, 82);
             height: 70px;
-            max-width: 100%;
+            max-width: 105%;
             margin: 0;
             padding: 0;
             margin-left: -2%;
@@ -991,10 +1001,11 @@
              color: white;
               line-height: 1.6;
               overflow-x: hidden;
+              
               min-height: 100vh;
               position: relative;
               font-size: small;
-              width: 100%;
+              width: 95%;
              
         }
         ul{
@@ -1266,9 +1277,13 @@
 
          #Project-section{
              margin-left: 10%;
+          
             display: flex;
             flex-wrap: wrap;
             margin-top: -0px;
+                  color: rgb(185, 184, 184);
+               
+                font-family: sans-serif;
         }
         #Project{
              background-color:rgb(1, 62, 82);
@@ -1276,6 +1291,9 @@
              height: 600px;
              border-radius: 20px;
              margin-left: 00px;
+               color: rgb(185, 184, 184);
+               
+                font-family: sans-serif;
         }
         #Restaurant{
             background-image: url("129717339-close-up-woman-with-laptop-ordering-take-away-food-online-delivery-concept-all-screen-graphics-are - Copy.jpg");
@@ -1377,7 +1395,7 @@
             }
             #overview{
                 font-size: 15px;
-                color: white;
+                 color: rgb(185, 184, 184);
                 font-weight: bold;
                 
             }

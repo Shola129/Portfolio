@@ -20,7 +20,7 @@
     $mail ->setFrom('ekundayoshola129@gmail.com', 'Ekundayo Shola');
     $mail ->addAddress('ekundayoshola129@gmail.com', 'Ekundayo Shola');
     $mail ->isHTML(true);
-    $mail ->Subject="From Shola devs website";
+    $mail ->Subject="Mail sent from my portfolio";
     $content=array("Name"=>$name,"Email"=>$email, "Message"=>$message);
     $con = json_encode($content, true);
     $mail ->Body="$con";
